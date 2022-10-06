@@ -1,7 +1,7 @@
 {
-  "name": "website",
+  "name": "Portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Portfolio - Works and services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
